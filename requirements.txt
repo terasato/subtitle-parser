@@ -1,5 +1,4 @@
 fastapi>=0.70.0
 uvicorn>=0.13
 requests>=2.3
-webvtt>=0.1
-io>=0.1
+webvtt-py>=0.1
